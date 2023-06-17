@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "Peter-Levine",
+    "repository": "twrp_device_google_gs201",
+    "target_path": "device/google/gs201-common",
+    "branch": "main"
+  }
+]
